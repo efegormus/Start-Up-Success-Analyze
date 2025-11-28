@@ -1,7 +1,14 @@
 ##  Start-up Success Analysis
 
+---
+
 ###  Project Proposal
 The aim of this project is to analyze which factors influence the success of start-ups in their early years. The focus is on founder experience, team size, and country-level economic indicators, and how these variables relate to start-up success.
+
+## Motivation
+The motivation of this project comes from my personal interest in entrepreneurship. Moreover, I want to establish a startup myself in the future.
+The number of start-ups increasing day by day worldwide. Even though the number increases, approximately 90% of start-ups fail within their first three years. But not all of these fail from bad ideas. There are lots of factors like team imbalance, poor funding etc. 
+Understanding these factors not only shows entrepreneurs what to pay attention to but also gives investors perspective on which ventures to invest in.
 
 ###  Research Question
 What factors contribute to early start-up success, and how do founder, team, and country-level characteristics affect outcomes?
