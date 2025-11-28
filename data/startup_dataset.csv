@@ -1,0 +1,216 @@
+startup_name,country,founded_year,founders,founder_experience_years,team_size,total_funding_usd,sector,status
+Airbnb,South Korea,2014,Founder Name Placeholder,4,3493,5266215825,Cloud,Success
+Uber,Germany,2005,Founder Name Placeholder,7,6710,3865241377,EdTech,Mixed
+Stripe,Argentina,2005,Founder Name Placeholder,6,5830,3208982464,Cloud,Mixed
+SpaceX,Singapore,2016,Founder Name Placeholder,4,1747,2258640785,Cybersecurity,Mixed
+Revolut,Mexico,2000,Founder Name Placeholder,9,1081,13497140786,Design,Mixed
+Klarna,Brazil,2006,Founder Name Placeholder,7,5918,12336914976,Cloud,Failure
+TransferWise,Mexico,2008,Founder Name Placeholder,8,6123,10412270028,AI,Mixed
+N26,South Korea,2012,Founder Name Placeholder,11,7659,8160227392,Fintech,Success
+Delivery Hero,South Korea,2019,Founder Name Placeholder,5,4003,180454828,EdTech,Success
+Hopin,Turkey,2015,Founder Name Placeholder,13,7961,10821513022,Cybersecurity,Success
+Notion,Estonia,2004,Founder Name Placeholder,9,3510,7312650714,Gaming,Failure
+Figma,South Korea,2017,Founder Name Placeholder,6,993,2550652196,Delivery,Failure
+Robinhood,Germany,2020,Founder Name Placeholder,14,4752,10726869616,AI,Success
+Bolt,UAE,2008,Founder Name Placeholder,13,2114,14319841365,Travel,Failure
+Byju's,Canada,2007,Founder Name Placeholder,8,416,10321290864,AI,Mixed
+Razorpay,France,2003,Founder Name Placeholder,9,1762,6830649022,Productivity,Failure
+CureFit,UAE,2020,Founder Name Placeholder,14,3886,12216564796,Ride-hailing,Success
+Glovo,Germany,2018,Founder Name Placeholder,8,3934,12547655808,Delivery,Mixed
+Cabify,USA,2017,Founder Name Placeholder,8,6733,12524511167,Delivery,Mixed
+Databricks,Turkey,2005,Founder Name Placeholder,9,7216,9163016615,Travel,Failure
+Snowflake,Australia,2000,Founder Name Placeholder,8,5712,8054039652,Delivery,Success
+Canva,Kenya,2004,Founder Name Placeholder,5,2720,4368063570,EdTech,Failure
+Atlassian,France,2021,Founder Name Placeholder,14,4105,14086975810,AI,Success
+Unity,Kenya,2001,Founder Name Placeholder,7,6743,1914372923,AI,Success
+Duolingo,USA,2002,Founder Name Placeholder,12,5254,853880396,E-commerce,Success
+WeWork,Nigeria,2019,Founder Name Placeholder,11,6388,4589435029,AI,Mixed
+Dropbox,Sweden,2012,Founder Name Placeholder,10,5236,4303960738,Gaming,Mixed
+Zoom,France,2013,Founder Name Placeholder,8,490,11091741663,Design,Success
+Pinterest,Estonia,2009,Founder Name Placeholder,4,6502,12723106154,Gaming,Success
+Asana,UK,2022,Founder Name Placeholder,4,1223,8535481495,Cybersecurity,Success
+DoorDash,Germany,2000,Founder Name Placeholder,13,903,2606453165,Gaming,Failure
+Lime,Brazil,2004,Founder Name Placeholder,10,4653,6291000673,Ride-hailing,Success
+Bird,Japan,2003,Founder Name Placeholder,11,2957,3821058719,Ride-hailing,Mixed
+Coinbase,Turkey,2004,Founder Name Placeholder,11,177,11224706742,Delivery,Mixed
+Chainalysis,Spain,2016,Founder Name Placeholder,4,4205,2041921179,Cybersecurity,Mixed
+OpenAI,Mexico,2022,Founder Name Placeholder,6,1060,13569653492,FoodTech,Failure
+HiveAI,South Korea,2010,Founder Name Placeholder,7,1098,1078624190,Cybersecurity,Failure
+Affirm,Australia,2001,Founder Name Placeholder,10,2798,3918385916,Delivery,Success
+Brex,Nigeria,2001,Founder Name Placeholder,13,951,13338822727,Ride-hailing,Failure
+Rippling,USA,2014,Founder Name Placeholder,13,7089,9448566101,Travel,Mixed
+Checkout.com,Singapore,2017,Founder Name Placeholder,6,1599,14728216299,Gaming,Success
+GoCardless,Japan,2001,Founder Name Placeholder,12,3668,8797264215,Ride-hailing,Success
+Monzo,Argentina,2021,Founder Name Placeholder,9,3795,5720318978,Travel,Mixed
+Starling Bank,Argentina,2010,Founder Name Placeholder,15,1250,3412775618,Design,Success
+Tink,UAE,2012,Founder Name Placeholder,3,803,128143857,Ride-hailing,Success
+Babbel,Sweden,2005,Founder Name Placeholder,12,6649,1398342350,Ride-hailing,Mixed
+HelloFresh,USA,2001,Founder Name Placeholder,13,6144,8793311249,Design,Failure
+FlixBus,UK,2018,Founder Name Placeholder,6,4758,8144701451,Delivery,Success
+Delivery Club,Nigeria,2010,Founder Name Placeholder,11,7823,7361571521,Gaming,Success
+Grab,South Korea,2010,Founder Name Placeholder,3,677,2412261162,EdTech,Mixed
+Gojek,India,2021,Founder Name Placeholder,15,6500,2293904591,EdTech,Mixed
+Tokopedia,Spain,2007,Founder Name Placeholder,14,7130,1962472860,Cybersecurity,Failure
+Traveloka,UK,2005,Founder Name Placeholder,4,6034,14187563971,AI,Mixed
+OYO,Sweden,2010,Founder Name Placeholder,11,1818,12897037606,E-commerce,Success
+Paytm,Singapore,2001,Founder Name Placeholder,7,14,11855915707,EdTech,Success
+Zomato,Brazil,2016,Founder Name Placeholder,5,2429,13585586413,Ride-hailing,Mixed
+Swiggy,India,2002,Founder Name Placeholder,4,6874,5531166678,Design,Failure
+CRED,Nigeria,2002,Founder Name Placeholder,8,6409,2159133105,Productivity,Mixed
+PhonePe,USA,2001,Founder Name Placeholder,9,533,3912250269,EdTech,Failure
+Rapido,Japan,2005,Founder Name Placeholder,9,6469,2020125458,Design,Failure
+Careem,India,2001,Founder Name Placeholder,9,1842,10185981408,AI,Mixed
+Anghami,Brazil,2017,Founder Name Placeholder,13,6900,13227421373,Ride-hailing,Failure
+Jahez,South Korea,2005,Founder Name Placeholder,3,7745,8225588248,Delivery,Failure
+Tabby,France,2012,Founder Name Placeholder,8,2317,12918447875,E-commerce,Failure
+Kitopi,Canada,2010,Founder Name Placeholder,12,7710,8749380627,Gaming,Success
+Tamara,Turkey,2013,Founder Name Placeholder,13,366,2926730156,Cybersecurity,Failure
+Yassir,Turkey,2008,Founder Name Placeholder,8,6673,7830609921,Fintech,Success
+Chipper Cash,Mexico,2011,Founder Name Placeholder,12,5860,7894993429,Productivity,Failure
+Flutterwave,Canada,2013,Founder Name Placeholder,11,5052,6715948705,E-commerce,Failure
+Paystack,Spain,2012,Founder Name Placeholder,8,6018,1206274443,Health,Failure
+Jumia,Japan,2000,Founder Name Placeholder,13,2282,4539272274,Productivity,Success
+Sendy,Germany,2003,Founder Name Placeholder,4,1601,5334288608,Gaming,Failure
+Wasoko,UAE,2014,Founder Name Placeholder,10,4252,6633289317,FoodTech,Success
+Twiga Foods,Singapore,2020,Founder Name Placeholder,3,3281,8770217991,Travel,Success
+Interswitch,UK,2018,Founder Name Placeholder,7,1166,1667053862,Health,Success
+Andela,Sweden,2015,Founder Name Placeholder,6,2921,2758254681,Cybersecurity,Success
+M-KOPA,Spain,2001,Founder Name Placeholder,11,4285,3164049750,Ride-hailing,Failure
+Airtable,Turkey,2001,Founder Name Placeholder,14,6058,4482242553,Health,Mixed
+Datadog,Japan,2015,Founder Name Placeholder,15,4643,6472198018,Cybersecurity,Failure
+UiPath,USA,2020,Founder Name Placeholder,11,5961,3390126215,Cybersecurity,Mixed
+Miro,Australia,2006,Founder Name Placeholder,3,5781,14119399352,Fintech,Failure
+Monday.com,South Korea,2020,Founder Name Placeholder,10,4712,5959654403,Delivery,Failure
+ClickUp,Canada,2008,Founder Name Placeholder,6,3713,5407016076,Fintech,Mixed
+Zapier,USA,2005,Founder Name Placeholder,3,3511,10897859374,Cloud,Success
+Plaid,France,2003,Founder Name Placeholder,5,42,14515308903,Cybersecurity,Mixed
+Calendly,Japan,2006,Founder Name Placeholder,14,6794,10336245702,Cybersecurity,Mixed
+Hinge Health,Estonia,2002,Founder Name Placeholder,8,3977,5228303482,Travel,Success
+Luminar,Argentina,2013,Founder Name Placeholder,15,5754,12375601329,EdTech,Failure
+Nuro,Spain,2013,Founder Name Placeholder,4,6030,6656957035,Productivity,Success
+Aurora,Kenya,2006,Founder Name Placeholder,9,457,5817567223,Ride-hailing,Mixed
+Anduril,UAE,2017,Founder Name Placeholder,5,1829,11148798565,Health,Mixed
+Relativity Space,South Korea,2002,Founder Name Placeholder,10,6008,2730486621,Productivity,Failure
+Benchmark Space,Nigeria,2003,Founder Name Placeholder,9,1547,9984765689,EdTech,Failure
+Jobandtalent,Australia,2019,Founder Name Placeholder,14,6631,1254742312,Design,Mixed
+Personio,Australia,2004,Founder Name Placeholder,5,3856,6990486801,E-commerce,Success
+Contentful,UAE,2006,Founder Name Placeholder,7,5377,6344381656,Cybersecurity,Success
+Relex,Japan,2010,Founder Name Placeholder,8,5615,1207303579,Fintech,Failure
+Wolt,Sweden,2011,Founder Name Placeholder,8,6425,11138884557,Design,Failure
+Northvolt,Estonia,2014,Founder Name Placeholder,12,6323,11921136982,Cybersecurity,Success
+Voi,Singapore,2006,Founder Name Placeholder,13,3868,13606367390,Gaming,Mixed
+Truecaller,France,2004,Founder Name Placeholder,11,5676,13959585480,Productivity,Failure
+Toss,Kenya,2017,Founder Name Placeholder,15,7410,10267018563,Delivery,Mixed
+Coupang,Sweden,2008,Founder Name Placeholder,5,4921,14512070960,Travel,Success
+Baemin,Estonia,2014,Founder Name Placeholder,10,5761,11512378658,Travel,Mixed
+Naver Pay,Estonia,2020,Founder Name Placeholder,4,7304,11233579150,Travel,Success
+Line Pay,France,2002,Founder Name Placeholder,4,181,13717744716,AI,Failure
+Mercari,Mexico,2009,Founder Name Placeholder,11,5415,1397514435,Ride-hailing,Success
+Rakuten,India,2004,Founder Name Placeholder,12,1898,4005241806,EdTech,Mixed
+SmartHR,Japan,2019,Founder Name Placeholder,3,5614,13695088408,Travel,Mixed
+Preferred Networks,Estonia,2000,Founder Name Placeholder,7,7851,6455038452,Design,Mixed
+Trendyol,Turkey,2003,Founder Name Placeholder,10,6614,4493003417,Gaming,Mixed
+Getir,Nigeria,2019,Founder Name Placeholder,11,5883,12940672743,Productivity,Mixed
+Yemeksepeti,UAE,2011,Founder Name Placeholder,15,2559,9620734793,Travel,Success
+Hepsiburada,Singapore,2016,Founder Name Placeholder,15,7244,2220758325,FoodTech,Success
+Insider,Germany,2014,Founder Name Placeholder,15,4269,12688056153,Health,Failure
+Picus Security,Mexico,2001,Founder Name Placeholder,12,1260,8172707289,Design,Success
+Medal,India,2007,Founder Name Placeholder,12,2830,11785591720,Gaming,Failure
+Modanisa,Germany,2009,Founder Name Placeholder,10,1038,4723999531,AI,Failure
+Peak Games,Japan,2006,Founder Name Placeholder,15,5824,9010474234,Ride-hailing,Failure
+Dream Games,Singapore,2020,Founder Name Placeholder,10,7620,4778641047,E-commerce,Mixed
+Param,Sweden,2001,Founder Name Placeholder,8,7863,11098190810,Health,Mixed
+Colendi,Sweden,2011,Founder Name Placeholder,12,257,9836161019,FoodTech,Mixed
+Papara,Singapore,2013,Founder Name Placeholder,6,2371,2129019386,FoodTech,Failure
+Vivense,Mexico,2006,Founder Name Placeholder,6,6857,12888898071,Health,Mixed
+Letgo,Brazil,2011,Founder Name Placeholder,7,1782,11517665197,Cloud,Failure
+Biontech,USA,2013,Founder Name Placeholder,13,3676,11147540887,AI,Success
+CureVac,Estonia,2008,Founder Name Placeholder,13,3284,5468645688,FoodTech,Success
+Gorillas,Brazil,2015,Founder Name Placeholder,6,4316,6147758933,Gaming,Failure
+Flink,Canada,2001,Founder Name Placeholder,13,4505,5043614335,Design,Failure
+Zapp,Mexico,2003,Founder Name Placeholder,3,5882,4304544195,Gaming,Failure
+TooGoodToGo,Japan,2003,Founder Name Placeholder,6,4135,10414935202,Design,Mixed
+Bolt Food,India,2007,Founder Name Placeholder,11,4388,14342871689,Ride-hailing,Mixed
+Rappi,India,2002,Founder Name Placeholder,6,1182,8805744578,Gaming,Failure
+Cornershop,UK,2016,Founder Name Placeholder,3,3035,7661472881,Cloud,Success
+Ualá,Spain,2015,Founder Name Placeholder,7,4388,2663136633,EdTech,Failure
+Nubank,South Korea,2008,Founder Name Placeholder,9,2772,6248174264,Health,Success
+QuintoAndar,UAE,2011,Founder Name Placeholder,12,1378,336499438,Health,Failure
+Wildlife Studios,France,2006,Founder Name Placeholder,14,607,10259490240,Delivery,Failure
+Loggi,Australia,2002,Founder Name Placeholder,6,634,3866882815,Travel,Success
+iFood,USA,2019,Founder Name Placeholder,14,5412,3702642672,EdTech,Failure
+Kong,Brazil,2005,Founder Name Placeholder,11,1469,12773698772,EdTech,Mixed
+HashiCorp,Japan,2019,Founder Name Placeholder,3,2517,11341893787,Travel,Mixed
+Dataminr,Kenya,2006,Founder Name Placeholder,3,890,11154065950,Cloud,Success
+Snyk,Germany,2001,Founder Name Placeholder,13,3694,14829059276,Cloud,Failure
+SentinelOne,Canada,2019,Founder Name Placeholder,15,5999,7752505429,Fintech,Failure
+Darktrace,France,2016,Founder Name Placeholder,13,4533,7536383720,Delivery,Success
+Tanium,Kenya,2005,Founder Name Placeholder,14,6727,14135298076,Travel,Mixed
+Rubrik,Brazil,2022,Founder Name Placeholder,11,5723,3914124604,Health,Success
+Confluent,USA,2008,Founder Name Placeholder,13,7506,2808948696,Delivery,Failure
+DoorLoop,Spain,2012,Founder Name Placeholder,13,4167,1083143781,Productivity,Success
+Mambu,Spain,2002,Founder Name Placeholder,6,3201,7535441503,FoodTech,Failure
+Thought Machine,South Korea,2003,Founder Name Placeholder,12,3539,12513530543,EdTech,Failure
+PPRO,Kenya,2007,Founder Name Placeholder,3,854,13746677199,Fintech,Failure
+Sprinklr,UK,2004,Founder Name Placeholder,5,2750,646054988,Design,Success
+Hootsuite,Estonia,2014,Founder Name Placeholder,14,7224,3441243114,Travel,Mixed
+Buffer,Sweden,2015,Founder Name Placeholder,5,2367,8043418208,E-commerce,Failure
+Typeform,Canada,2005,Founder Name Placeholder,7,205,1828182318,Design,Mixed
+Bolttech,Australia,2020,Founder Name Placeholder,14,2018,3223810581,FoodTech,Success
+Zipline,Japan,2003,Founder Name Placeholder,7,3969,12539992884,EdTech,Success
+Lalamove,USA,2018,Founder Name Placeholder,3,3826,3046109154,E-commerce,Success
+Shippo,USA,2010,Founder Name Placeholder,9,4071,7625735535,E-commerce,Failure
+Flexport,Turkey,2014,Founder Name Placeholder,14,1464,8885106494,Health,Mixed
+Outreach,UK,2006,Founder Name Placeholder,10,4198,2095643568,AI,Success
+Gong,France,2016,Founder Name Placeholder,12,7918,7444876916,Cybersecurity,Failure
+Amplitude,Spain,2002,Founder Name Placeholder,6,3529,2180973329,Fintech,Failure
+Postman,Germany,2020,Founder Name Placeholder,10,7754,10837286778,Ride-hailing,Success
+Fivetran,USA,2016,Founder Name Placeholder,12,7390,14832720634,Health,Failure
+Segment,Nigeria,2008,Founder Name Placeholder,9,7612,8720654341,AI,Failure
+Snowplow,Japan,2011,Founder Name Placeholder,7,4977,14718398780,Gaming,Mixed
+dbt Labs,Australia,2018,Founder Name Placeholder,4,3471,5693825134,AI,Failure
+Pipedrive,Nigeria,2021,Founder Name Placeholder,8,1381,1873622320,Design,Success
+Freshworks,Kenya,2005,Founder Name Placeholder,8,3368,5083100296,Travel,Failure
+Freshdesk,Nigeria,2002,Founder Name Placeholder,4,830,7435026735,Fintech,Failure
+Grammarly,India,2006,Founder Name Placeholder,10,1647,3513213886,Health,Failure
+Canopy,Sweden,2010,Founder Name Placeholder,4,7134,14662150879,FoodTech,Mixed
+Zapzap,UK,2009,Founder Name Placeholder,15,5785,4695072122,Travel,Success
+Cloudflare,Nigeria,2006,Founder Name Placeholder,7,2637,6099809400,Delivery,Success
+DigitalOcean,Argentina,2020,Founder Name Placeholder,12,2619,928099459,Cloud,Mixed
+OpenSea,Sweden,2018,Founder Name Placeholder,11,5173,5134505298,Health,Failure
+Magic Eden,Australia,2003,Founder Name Placeholder,12,2415,10123885387,Gaming,Failure
+Sorare,Spain,2020,Founder Name Placeholder,7,5776,2757847383,Delivery,Mixed
+Revolut Junior,Spain,2019,Founder Name Placeholder,3,1675,4039746762,Productivity,Mixed
+Zego,Germany,2018,Founder Name Placeholder,7,2083,9998937031,EdTech,Mixed
+Receipt Bank,Germany,2010,Founder Name Placeholder,8,2484,1855236253,EdTech,Mixed
+Spendesk,South Korea,2015,Founder Name Placeholder,6,1009,8031721113,AI,Mixed
+Qonto,Argentina,2011,Founder Name Placeholder,13,7341,8571674516,FoodTech,Success
+Zilch,Argentina,2022,Founder Name Placeholder,12,7275,6872688527,Gaming,Failure
+ClearScore,India,2008,Founder Name Placeholder,12,3957,7844784102,Cybersecurity,Success
+Tide,India,2018,Founder Name Placeholder,15,4337,11984619074,Travel,Mixed
+Deliveroo,Germany,2019,Founder Name Placeholder,11,7754,13287779713,Gaming,Mixed
+JustEat,India,2004,Founder Name Placeholder,15,3026,11098597762,EdTech,Mixed
+Deliveroo Plus,Turkey,2019,Founder Name Placeholder,13,1674,3042242549,Productivity,Mixed
+Cazoo,Japan,2016,Founder Name Placeholder,15,5124,5062434415,EdTech,Mixed
+Clovo,Kenya,2000,Founder Name Placeholder,11,1343,3577343725,Design,Success
+Remitly,Canada,2022,Founder Name Placeholder,9,5723,1316001890,Fintech,Success
+Wise Business,Argentina,2007,Founder Name Placeholder,13,5151,6255082700,Travel,Mixed
+Gopuff,USA,2005,Founder Name Placeholder,11,2655,4850085363,Cybersecurity,Failure
+Getaround,Mexico,2022,Founder Name Placeholder,6,1461,12497152658,FoodTech,Success
+Turo,Sweden,2018,Founder Name Placeholder,6,541,6342872639,Productivity,Failure
+BlaBlaCar,Japan,2011,Founder Name Placeholder,6,4276,2293285239,Gaming,Failure
+Ola,South Korea,2014,Founder Name Placeholder,14,4351,12476400320,Travel,Success
+Lyft,Singapore,2001,Founder Name Placeholder,13,2444,12687831938,Productivity,Success
+Spin,UAE,2022,Founder Name Placeholder,14,248,13309645718,Cybersecurity,Success
+Tier Mobility,Argentina,2018,Founder Name Placeholder,4,3558,11179156904,FoodTech,Success
+Circ,Estonia,2017,Founder Name Placeholder,15,6483,13044869270,E-commerce,Failure
+Bird Rides,Canada,2009,Founder Name Placeholder,5,7598,5910623080,Health,Success
+N26 Business,Argentina,2022,Founder Name Placeholder,6,6457,4161158822,Health,Success
+SolarisBank,Turkey,2019,Founder Name Placeholder,15,139,2608008653,Gaming,Success
+Holvi,Australia,2016,Founder Name Placeholder,7,5060,13378228676,Travel,Mixed
+Numbrs,Spain,2008,Founder Name Placeholder,10,2441,357079515,Fintech,Success
+Curve,Spain,2007,Founder Name Placeholder,5,1275,13550779752,Health,Success
+Bankable,USA,2017,Founder Name Placeholder,14,3088,2421172564,Design,Mixed
+Pleo,Germany,2011,Founder Name Placeholder,9,5457,4327367286,Cloud,Mixed
+Soldo,France,2014,Founder Name Placeholder,9,6021,12650754227,Ride-hailing,Success
+Payhawk,Sweden,2021,Founder Name Placeholder,9,5572,3340655684,E-commerce,Failure
