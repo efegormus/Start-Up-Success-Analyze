@@ -35,4 +35,4 @@ What factors contribute to early start-up success, and how do founder, team, and
 - Run hypothesis tests (t-tests, chi-square tests, regression models).
 
 ### Expected Outcome
-The project will highlight which factors are most associated with start-up success and how founder, team, and economic conditions interact to influence outcomes.ol edin.
+The project will highlight which factors are most associated with start-up success and how founder, team, and economic conditions interact to influence outcomes.
