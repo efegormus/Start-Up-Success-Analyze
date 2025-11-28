@@ -13,6 +13,25 @@ Understanding these factors not only shows entrepreneurs what to pay attention t
 ###  Research Question
 What factors contribute to early start-up success, and how do founder, team, and country-level characteristics affect outcomes?
 
+### Data Used
+Crunchbase (Company Names Only)
+https://www.crunchbase.com/discover/organization
+
+Dealroom (European Startups)
+https://dealroom.co/
+
+AngelList / Wellfound (Startup Listings)
+https://wellfound.com/
+
+TechCrunch (Startup Profiles)
+https://techcrunch.com/startups/
+
+CB Insights "Unicorn List"
+https://www.cbinsights.com/research-unicorn-companies
+
+Y Combinator Startup Directory
+https://www.ycombinator.com/companies
+
 ### Objectives
 - Identify possible variables that influence start-up success  
 - Collect relevant data from multiple sources  
