@@ -14,7 +14,7 @@ Understanding these factors not only shows entrepreneurs what to pay attention t
 What factors contribute to early start-up success, and how do founder, team, and country-level characteristics affect outcomes?
 
 ### Data Used
-Crunchbase (Company Names Only)
+Crunchbase 
 https://www.crunchbase.com/discover/organization
 
 Dealroom (European Startups)
