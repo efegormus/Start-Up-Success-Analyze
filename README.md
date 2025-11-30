@@ -32,6 +32,9 @@ https://www.cbinsights.com/research-unicorn-companies
 Y Combinator Startup Directory
 https://www.ycombinator.com/companies
 
+GDP by Country
+https://www.worldometers.info/gdp/gdp-by-country/
+
 ### Objectives
 - Identify possible variables that influence start-up success  
 - Collect relevant data from multiple sources  
