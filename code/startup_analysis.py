@@ -63,7 +63,7 @@ def plot_distributions(df):
     plt.savefig("../graphs/experience_by_status.png")
     plt.close()
 
-    # 4) GDP growth vs funding scatter plot (no hypothesis test yet)
+    # 4) GDP growth vs funding scatter plot 
     plt.figure()
     plt.scatter(df["gdp_growth"], df["total_funding_usd"])
     plt.xlabel("GDP Growth (%)")
@@ -73,7 +73,7 @@ def plot_distributions(df):
     plt.savefig("../graphs/gdp_vs_funding.png")
     plt.close()
 
-    # 5) Success rate by founder count (your "2")
+    # 5) Success rate by founder count 
     temp = df.copy()
     temp["is_success"] = (temp["status"] == "Success").astype(int)
     rate_by_founders = temp.groupby("founder_count")["is_success"].mean().reset_index()
@@ -87,7 +87,7 @@ def plot_distributions(df):
     plt.savefig("../graphs/success_rate_by_founder_count.png")
     plt.close()
 
-    # 6) Success rate by GDP growth (binned categories) 
+    # 6) Success rate by GDP growth 
     gdp_bins = [0, 2, 4, 8]
     gdp_labels = ["Low (0–2%)", "Medium (2–4%)", "High (4–8%)"]
     temp["gdp_bin"] = pd.cut(
@@ -168,3 +168,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
